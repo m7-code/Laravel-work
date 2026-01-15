@@ -1,0 +1,5 @@
+php artisan => ya artisan ke jetne bhi commands han wo dekhee ga
+php artisan route -h => ya routes ke command dekhata ha
+php artisan route:list => ya route ke list data ha
+php artisan route:list --except-vendor => sirf apne routes dakhne ka lye
+php artisan route:list --path=name => kese khas route ko dakhne ka leye
