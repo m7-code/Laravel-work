@@ -1,0 +1,7 @@
+php artisan make:migration create_FileNmae_table => ya migration ki file bnanye ka leye
+php artisan migrate => ya xzampp ma database bana da ga
+php artisan migrate:status => ya staus batye ge getne bhi ham na migration banyen hon ge
+php artisan migrate:rollback => last ma jo ham na file banaye ho ge us ko delete kr da ga 
+php artisan migrate:reset => ya sab kuch delete kr da ge database sy sare table
+php artisan migrate:refresh => ya phale delate kr ka dubara database bana da ge 
+php artisan make:model name -m => ya model or us ke migration dono ko bna da ge

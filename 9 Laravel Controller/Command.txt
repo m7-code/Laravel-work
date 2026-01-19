@@ -1,0 +1,3 @@
+php artisan make:controller fileName => ya controller ki file bna da ga
+php artisan make:controller fileName --invokable => single action controller ko banye ka leye
+php artisan route:list --except-vendor => sirf apne routes dakhne ka lye
