@@ -1,0 +1,5 @@
+php artisan make:migration update_name_table --table=name => ya update karne ka leye phale update vale file ka name phir flag ka andar jes file ko ubdate karna ho
+php artisan migrate 
+php artisan make:migration table_name => ya bhi file bna da ga magr us ka andr schemma nhi
+php artisan migrate --path=/database/migrations/2024_01_15_123456_create_users_table.php =>Sirf ek migration file run karne ka command
+
