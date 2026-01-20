@@ -1,0 +1,4 @@
+php artisan make:model name =>ya model bane ka leye or yha table ka nam da ge
+php artisan make:seeder nameSeeder => ya seeder ko bane ka leye or nam data ka table ka
+php artisan db:seed => ya seeder file run karne ka leye
+php artisan migrate:fresh --seed => ya phale us ko fresh kare ge matlab sab delete or new seed ko bhi chla da ge
