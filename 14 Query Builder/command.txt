@@ -1,0 +1,1 @@
+php artisan make:controller nameController => ya controller ki file bna da ga
