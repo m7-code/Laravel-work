@@ -1,0 +1,1 @@
+ php artisan storage:link => es sy public folder ma bhi ak storage nam sy folder ban jaye ga
